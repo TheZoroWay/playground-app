@@ -1,12 +1,27 @@
-# React + Vite
+# 🔬 Frontend Playground
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **React + Vite** powered playground app to experiment with modern frontend features, solve common UI/UX problems, and explore practical use cases.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## Expanding the ESLint configuration
+- ⚛️ **React** – Component-based UI
+- ⚡️ **Vite** – Fast build tool
+- 💅 **Tailwind / CSS Modules** _(optional)_ – Styling
+- 🧪 **Playground Architecture** – Modular components for experimentation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎯 Purpose
+
+This app serves as a sandbox for:
+
+- Testing **new React features** (e.g. Suspense, Concurrent Rendering)
+- Exploring **Vite plugins**, hooks, and optimizations
+- Building and validating **frontend design patterns**
+- Solving real-world **frontend use cases** (form handling, state management, API interactions, etc.)
+- Creating **reusable UI components** and utilities
+- Benchmarking performance & rendering behavior
+
+---
