@@ -1,0 +1,29 @@
+.box-row {
+  display: flex;
+}
+
+.propagate-box {
+  margin: 20px 0;
+  padding: 10px;
+  border: 2px solid #e6e6e6;
+}
+
+.box-control {
+  button {
+    background-color: #e0e2d9;
+  }
+
+  button:disabled {
+    background-color: #f0f1ec;
+  }
+
+  span {
+    padding: 0 6px;
+    font-weight: bolder;
+  }
+  display: flex;
+  align-items: center;
+  max-width: 60px;
+  padding: 10px 10px 10px 0;
+  margin: 10px 10px 10px 0;
+}
